@@ -26,7 +26,7 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 <!-- USAGE EXAMPLES -->
-## Usage (Pyton)
+## Usage (Phyton)
 
 ```sh
     ./decompress.py .\includes\sigawin.ch > sigawin.ch
