@@ -8,6 +8,7 @@ This is an example of how to decompress .ch and .th binary files.
 
 This is an example of how to list things you need to use the software and how to install them.
 * [phyton](https://www.python.org/)
+* [pwsh](https://github.com/PowerShell/PowerShell)
 
 ### Source (Phyton)
 
