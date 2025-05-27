@@ -1,3 +1,5 @@
+#sample: ./decompress.py .\includes\sigawin.ch > sigawin.ch
+
 import zlib
 import sys
 
