@@ -1,3 +1,5 @@
+#sample: pwsh .\decompress.ps1 -filePath ".\includes\sigawin.ch" > .\sigawin.ch
+
 param (
     [string]$filePath
 )
